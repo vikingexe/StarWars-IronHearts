@@ -1,0 +1,7 @@
+#reload countrycolors
+
+CRC = {
+	color = rgb { 135 135 135 }
+	color_ui = rgb { 135 135 135 }
+}
+
